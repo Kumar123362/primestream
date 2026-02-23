@@ -1,1 +1,12 @@
-
+primestream-lite/
+│
+├── pom.xml
+├── README.md
+└── src/
+    └── main/
+        ├── java/
+        │   └── HomeServlet.java
+        └── webapp/
+            ├── index.html
+            ├── style.css
+            └── script.js
